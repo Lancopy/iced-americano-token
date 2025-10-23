@@ -1,0 +1,14 @@
+{
+  "chainId": 103,
+  "address": "HMZb2mTT3LJvTRDd2e3dijE18usN7y71BpYKk49fqCgj",
+  "symbol": "IC",
+  "name": "Iced Americano",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Lancopy/iced-americano-token/main/logo.png",
+  "tags": ["coffee", "community"],
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://x.com/icedamericano",
+    "description": "或许每个人都需要来一杯冰美式 ☕"
+  }
+}
